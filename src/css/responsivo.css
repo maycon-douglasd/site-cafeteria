@@ -61,7 +61,8 @@
     .navbar {
         display: grid;
         align-items: center;
-        font-size: 5px;                       
+        text-align: center;
+        font-size: 1rem;
     }
     
     .home-container h3 {
@@ -120,6 +121,7 @@
     .navbar {
         display: grid;
         align-items: center;
+        text-align: center;
         font-size: 5px;
         margin-left: 20px;                       
     }   
